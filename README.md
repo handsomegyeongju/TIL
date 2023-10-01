@@ -1,4 +1,4 @@
-# javascript
+# JavaScript
 
 * prompt():문자열을 입력해주는 함수
 
@@ -10,3 +10,6 @@
 
 * querySelector():selector의 구체적인 그룹과 일치하는 document안 첫번째 엘리먼트를 반환한다.
 
+* addEventListener(): document의 특정요소(Id,class,tag 등등..) event(ex - click하면 함수를 실행하라, 마우스를 올리면 함수를 실행하라 등등.. )를 등록할 때 사용합니다.
+
+* preventDefault는 JavaScript 이벤트 핸들러에서 사용되는 메서드로, 기본 동작을 취소하는 역할을 합니다.
