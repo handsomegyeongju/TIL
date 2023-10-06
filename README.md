@@ -26,6 +26,10 @@
   <code>localStorage.removeItem("key");</code>
 
   모든 키의 데이터 삭제
-  <code>localStorage.clear();</code>
+  <code>localStorage.clear();</code></pre>
 
+* setInterval(): 함수는 어떤 코드를 일정한 시간 간격을 두고 반복해서 실행하고 싶을 때 사용합니다.
 
+* document.body.appendChild(): 선택한 요소 안에 자식요소를 추가한다.
+
+* document.createElement(): 요소를 만드는 메서드이다.
