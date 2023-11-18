@@ -22,3 +22,7 @@
 - grid-column-start : 그리드 아이템의 열 시작 위치 지정
 - grid-column-end : 그리드 아이템의 열 끝 위치 지정
 - grid-column : grid-column-start 와 grid-column-end 의 단축 속성
+
+CSS 그리드 (CSS Grid):
+
+웹 디자인에서 CSS 그리드는 레이아웃을 구성하기 위한 CSS 속성 중 하나입니다. 행과 열을 정의하여 웹 페이지의 레이아웃을 효과적으로 설계하는 데 사용됩니다.
