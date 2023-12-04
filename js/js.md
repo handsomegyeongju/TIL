@@ -57,4 +57,15 @@
 
 * arr.reverse(): 이 함수는 이 함수를 호출한 배열을 거꾸로 뒤집고, 그 배열을 가리키는 참조값을 반환합니다.
 
-
+- map()함수를 사용해 만들어 보았다.
+```js
+  function solution(array, n) {
+    array.sort((a,b) => a - b);
+    let arr = array.map((v) => Math.abs(v - n));
+    let value = Math.min(...arr);
+    let index = arr.indexOf(value);
+    
+    
+    return array[index];
+}
+```
